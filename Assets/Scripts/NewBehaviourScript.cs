@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//Alumno: Espiniza Gómez Abraham Salvador
+//Alumno: Espinoza Gómez Abraham Salvador
 
 public class NewBehaviourScript : MonoBehaviour
 {
